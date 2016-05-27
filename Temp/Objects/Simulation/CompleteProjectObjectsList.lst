@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.1.10.69 SP"?>
+<Objects>
+  <Object
+    Path="C:\projects\GithubExample\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package"
+    LastWriteTime="130560330440000000" />
+  <Object
+    Path="C:\projects\GithubExample\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="131088341794381410"
+    Private="false" />
+  <Object
+    Path="C:\projects\GithubExample\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="131088341794381410"
+    Private="false" />
+  <Object
+    Path="C:\projects\GithubExample\Logical\Libraries\Runtime\runtime.var"
+    LogicalPath="Libraries.Runtime.runtime.var"
+    Type="File"
+    LastWriteTime="130560330440000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\GithubExample\Logical\Libraries\Runtime\runtime.typ"
+    LogicalPath="Libraries.Runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="130560330440000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\GithubExample\Logical\Libraries\Runtime\runtime.fun"
+    LogicalPath="Libraries.Runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="130560330440000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\GithubExample\Logical\Libraries\Runtime\Binary.lby"
+    LogicalPath="Libraries.Runtime"
+    Type="Library"
+    LastWriteTime="130560330440000000" />
+  <Object
+    Path="C:\projects\GithubExample\Logical\Libraries\Operator\operator.fun"
+    LogicalPath="Libraries.Operator.operator.fun"
+    Type="File"
+    LastWriteTime="130560330440000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\GithubExample\Logical\Libraries\Operator\Binary.lby"
+    LogicalPath="Libraries.Operator"
+    Type="Library"
+    LastWriteTime="130560330440000000" />
+  <Object
+    Path="C:\projects\GithubExample\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="130560330440000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\GithubExample\Logical\Libraries\AsIecCon\Binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="130560330440000000" />
+  <Object
+    Path="C:\projects\GithubExample\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="130560330440000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\GithubExample\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="130560330440000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\GithubExample\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="130560330440000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\GithubExample\Logical\Libraries\astime\Binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="130560330440000000" />
+  <Object
+    Path="C:\projects\GithubExample\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="130560330440000000" />
+  <Object
+    Path="C:\projects\GithubExample\Physical\Simulation\Config.pkg"
+    LogicalPath="Simulation"
+    Type="Configuration"
+    LastWriteTime="130560330440000000" />
+  <Object
+    Path="C:\projects\GithubExample\Physical\Simulation\Hardware.hw"
+    LogicalPath="Simulation.Hardware.hw"
+    Type="File"
+    LastWriteTime="130560330440000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\GithubExample\Physical\Simulation\Hardware.hwl"
+    LogicalPath="Simulation.Hardware.hwl"
+    Type="File"
+    LastWriteTime="130560330440000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\GithubExample\Physical\Simulation\PC_any\Cpu.sw"
+    LogicalPath="Simulation.PC_any.Cpu.sw"
+    Type="File"
+    LastWriteTime="130560330440000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\GithubExample\Physical\Simulation\PC_any\Cpu.per"
+    LogicalPath="Simulation.PC_any.Cpu.per"
+    Type="File"
+    LastWriteTime="131088341794381410"
+    Private="false" />
+  <Object
+    Path="C:\projects\GithubExample\Physical\Simulation\PC_any\IoMap.iom"
+    LogicalPath="Simulation.PC_any.IoMap.iom"
+    Type="File"
+    LastWriteTime="131088341794391411"
+    Private="false" />
+  <Object
+    Path="C:\projects\GithubExample\Physical\Simulation\PC_any\PvMap.vvm"
+    LogicalPath="Simulation.PC_any.PvMap.vvm"
+    Type="File"
+    LastWriteTime="131088341794391411"
+    Private="false" />
+  <Object
+    Path="C:\projects\GithubExample\Physical\Simulation\PC_any\Cpu.pkg"
+    LogicalPath="Simulation.PC_any"
+    Type="Cpu"
+    LastWriteTime="131088341793701342" />
+  <Object
+    Path="C:\projects\GithubExample\Logical\Libraries\AsIecCon\SG4\AsIecCon.h"
+    LogicalPath="AsIecCon.h"
+    Type="File"
+    LastWriteTime="130560330440000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\GithubExample\Logical\Libraries\astime\SG4\astime.h"
+    LogicalPath="astime.h"
+    Type="File"
+    LastWriteTime="130560330440000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\GithubExample\Logical\Libraries\Operator\SG4\Operator.h"
+    LogicalPath="Operator.h"
+    Type="File"
+    LastWriteTime="130560330440000000"
+    Private="false" />
+  <Object
+    Path="C:\projects\GithubExample\Logical\Libraries\Runtime\SG4\Runtime.h"
+    LogicalPath="Runtime.h"
+    Type="File"
+    LastWriteTime="130560330440000000"
+    Private="false" />
+</Objects>

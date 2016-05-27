@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.1.10.69 SP"?>
+<ProjectOptions
+  IecNamingConventions="true"
+  IecKeywordsAsStructureMembers="false"
+  IecExtendedConstants="true"
+  LogicalDirectory="C:\projects\GithubExample\Logical\"
+  TempDirectory="C:\projects\GithubExample\Temp\"
+  AutomationStudioVersion="4.1.10.69 SP"
+  AutomationStudioEdition="Standard"
+  CrossReference="false"
+  ActiveConfiguration="Simulation"
+  CreateAnsiCDeclarations="false" />

@@ -1,0 +1,11 @@
+AR000 "Update", "SourcePath='C:\Program Files\BrAutomation\as\system\L0410\AR000' DestinationPath='..\..\..\Temp\Simulation\Simulation\PC_any'"
+Connection "/IF=tcpip /LOPO=11159 /SA=87", "/RT=1000 /AM=* /SDT=5 /DAIP=10.33.20.107 /REPO=11159 /ANSL=1 /PT=11169"
+Download: ".\ashwd.br", "SYSROM"
+Download: ".\asfw.br", "SYSROM"
+Download: ".\arconfig.br", "SYSROM"
+Download: ".\sysconf.br", "SYSROM"
+Warmstart
+Download: ".\runtime.br", "ROM"
+Download: ".\astime.br", "ROM"
+Download: ".\AsIecCon.br", "ROM"
+Download: ".\iomap.br", "ROM"
